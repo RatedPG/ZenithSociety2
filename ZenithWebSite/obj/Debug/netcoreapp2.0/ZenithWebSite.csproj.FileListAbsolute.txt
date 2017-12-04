@@ -20,3 +20,4 @@ C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\
 C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.AssemblyInfo.cs
 C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.dll
 C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.pdb
+C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.csprojResolveAssemblyReference.cache
