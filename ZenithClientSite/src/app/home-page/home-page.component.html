@@ -4,12 +4,12 @@
     <br>
     <div class="gabriels-header">
         <h4>
-            <button class="btn btn-primary">
-                < GO LEFT
+            <button class="btn btn-primary" (click)="prevWeek()">
+                < PREV WEEK
             </button>
             &nbsp;&nbsp;&nbsp;<strong>LIST OF EVENTS</strong>&nbsp;&nbsp;&nbsp;
-            <button class="btn btn-default">
-                GO RIGHT >
+            <button class="btn btn-default" (click)="nextWeek()">
+                NEXT WEEK >
             </button> 
         </h4>       
     </div>
@@ -23,6 +23,9 @@
             
         </tbody>
     </table>
+    <p *ngIf="nextSunday">Sunday : {{nextSunday}}</p>
+    <p *ngIf="lastMonday">Monday : {{lastMonday}}</p>
+    <p>below sundaymonday</p>
 </div>
 
 
