@@ -20,3 +20,15 @@ C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\
 C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.AssemblyInfo.cs
 C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.dll
 C:\Users\Pkao\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.pdb
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\bin\Debug\netcoreapp2.0\ZenithWebSite.deps.json
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\bin\Debug\netcoreapp2.0\ZenithWebSite.runtimeconfig.json
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\bin\Debug\netcoreapp2.0\ZenithWebSite.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\bin\Debug\netcoreapp2.0\ZenithWebSite.dll
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\bin\Debug\netcoreapp2.0\ZenithWebSite.pdb
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.dll
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.pdb
+C:\Users\gabri\source\repos\ZenithSociety2\ZenithWebSite\obj\Debug\netcoreapp2.0\ZenithWebSite.csprojResolveAssemblyReference.cache
