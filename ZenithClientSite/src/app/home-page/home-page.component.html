@@ -1,0 +1,31 @@
+<div class="container bg-container">
+    <br>
+    <br>
+    <br>
+    <div class="gabriels-header">
+        <h4>
+            <button class="btn btn-primary" (click)="prevWeek()">
+                < PREV WEEK
+            </button>
+            &nbsp;&nbsp;&nbsp;<strong>LIST OF EVENTS</strong>&nbsp;&nbsp;&nbsp;
+            <button class="btn btn-default" (click)="nextWeek()">
+                NEXT WEEK >
+            </button> 
+        </h4>       
+    </div>
+    <br>
+    <br>
+    <br>
+    <table *ngIf="events" class="table table-bordered">
+        <thead>
+        </thead>
+        <tbody>
+            
+        </tbody>
+    </table>
+    <p *ngIf="nextSunday">Sunday : {{nextSunday}}</p>
+    <p *ngIf="lastMonday">Monday : {{lastMonday}}</p>
+    <p>below sundaymonday</p>
+</div>
+
+
