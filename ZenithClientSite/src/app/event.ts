@@ -4,6 +4,7 @@ export class Event {
     eventTo            : string;
     username           : string;
     activityId         : number;
+    activity           : null;
     creationDate       : string;
     isActive           : boolean;
 }

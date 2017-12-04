@@ -9,16 +9,14 @@ export class EventFetchService {
 
   private BASE_URL = "http://zenithsocietycore2.azurewebsites.net/api/events";
 
-  constructor(private http: Http) {
-    console.log(this.getEvents());
-   }
+  constructor(private http: Http) {}
 
-  getEvents(): Promise<Event[]>{
+  getEvents(): Promise<Event[]> {
     return this.http.get(this.BASE_URL)
-      .toPromise()
-      .then(response => response.json() as Event[])
-      .catch(this.handleError);
-  }
+        .toPromise()
+        .then(response => response.json() as Event[])
+        .catch(this.handleError);
+}
 
   private handleError(error: any): Promise<any> {
     console.error('An error occurred', error); // for demo purposes only
